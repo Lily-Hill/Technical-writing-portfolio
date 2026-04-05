@@ -1,2 +1,3 @@
 # Technical-writing-portfolio
-A collection of technical writing samples, including API documentation, user guides, and step-by-step instruction manuals.
+About me
+Hello and welcome to my Technical Writing Portfolio! My name is Lily, amd i am passionate about making complex topics easy to understand. With a background in in Copywriting, i specialize in creating explicit, concise, and informative technical content.
